@@ -17,3 +17,10 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kawano-kawasaki&count_private=true&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kawano-kawasaki&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="[https://github-readme-stats.vercel.app/api?username=zizi4n5&count_private=true&show_icons=true](https://github-readme-stats.vercel.app/api?username=kawano-kawasaki&count_private=true&show_icons=true&theme=nord)" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=zizi4n5](https://github-readme-stats.vercel.app/api/top-langs/?username=kawano-kawasaki&layout=compact&theme=nord)" />
+</a>
