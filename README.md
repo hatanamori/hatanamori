@@ -1,21 +1,5 @@
 ## Hi there 👋
-
-<!--
-**kawano-kawasaki/kawano-kawasaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
+### 📈 Activity
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=kawano-kawasaki&count_private=true&show_icons=true&theme=nord" />
 </a>
@@ -24,3 +8,17 @@ Here are some ideas to get you started:
 </a>
 
 <br clear="left"/>
+
+### 🛠 Skills
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,java,py,js,react,linux,git,docker,mysql" />
+  </a>
+</p>
+
+### 🌱 Currently Learning
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,cpp" />
+  </a>
+</p>
