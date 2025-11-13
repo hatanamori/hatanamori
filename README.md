@@ -1,10 +1,10 @@
 ## Hi there 👋
 ### 📈 Activity
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=kawano-kawasaki&count_private=true&show_icons=true&theme=nord" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=hatanamori&count_private=true&show_icons=true&theme=nord" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawano-kawasaki&theme=nord" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hatanamori&theme=nord" />
 </a>
 
 <br clear="left"/>
